@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<book  id="boolid">
+		<author >authorname</author >
+		<title >titlename</title >
+		<genre >genrename</genre >
+	</book >
+	<book  id="boolid">
+		<author >authorname</author >
+		<title >titlename</title >
+		<genre >genrename</genre >
+	</book >
+	<book  id="boolid">
+		<author >authorname</author >
+		<title >titlename</title >
+		<genre >genrename</genre >
+	</book >
+</catalog>
+
